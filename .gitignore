@@ -1,0 +1,10 @@
+env
+checkpoints
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+**wgan_gp_test
+checkpoint
+*.csv
+*.pdf
+*.pkl
